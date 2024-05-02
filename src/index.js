@@ -9,7 +9,7 @@ function App() {
     <div className="card" >
       <Avatar pic="pexels-james-wheeler-417074.jpg"/>
       <div className="data">
-        <Intro  name="Marshell.D.Teatch" description="Yoooooooooooooooooooooooooooooooooooo
+        <Intro  name="" description="Yoooooooooooooooooooooooooooooooooooo
         oooooooooooooooooo "/>
         <SkillList />
         
